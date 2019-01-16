@@ -1,2 +1,3 @@
-# webpage_beep_loop_example
-Webpage Beep Loop based on Sound Manager 2
+# Webpage Beep Loop Example based on Sound Manager 2
+
+Explanation to come later.
